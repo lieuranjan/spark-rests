@@ -24,7 +24,7 @@
         <lombok.version>1.18.12</lombok.version>
         <spark.version>2.3.3</spark.version>
         <parquet.version>1.10.1</parquet.version>
-        <httpclient.version>4.5.8</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
     </properties>
 
     <dependencies>
